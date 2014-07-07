@@ -1,0 +1,8 @@
+# description:
+# author: KFJ
+# notes:
+fleets; 2
+years; list(seq(1988, 2012, by = 2))
+sds_obs; list(0.2)
+make_plot;FALSE
+write_file; TRUE
