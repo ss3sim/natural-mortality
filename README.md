@@ -5,6 +5,8 @@ This folder contains the code necessary to rerun the analysis from
 Johnson *et al*. (2014) using the 
 [ss3sim](https://github.com/ss3sim/ss3sim) package.
 
+Summary: Using [ss3sim](https://github.com/ss3sim/ss3sim), Monte Carlo simulations were used to evaluate the ability of statistical age-structured models to estimate spawning-stock biomass, fishing mortality, and total allowable catch when natural mortality varied with time in the true population but was unaccounted for in the estimation methods.
+
 Please direct all questions regarding the code to 
 Kelli Johnson (<kellifayejohnson@gmail.com>).
 
