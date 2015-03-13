@@ -12,6 +12,6 @@ Kelli Johnson (<kellifayejohnson@gmail.com>).
 
 ### References
 Johnson, K. F., Monnahan, C. C., McGilliard, C. R., Vert-pre, K. A., 
-Anderson, S. C., Cunningham, C. J., Hurtado-Ferro, F., et al. 2014. 
+Anderson, S. C., Cunningham, C. J., Hurtado-Ferro, F., et al. 2015. 
 Time-varying natural mortality in fisheries stock assessment models: identifying a default approach.
-ICES Journal of Marine Science. 10.1093/icesjms/fsu055 ([PDF] (http://icesjms.oxfordjournals.org/content/early/2014/04/09/icesjms.fsu055.full.pdf?keytype=ref&ijkey=NEXmZIkz3289u3z "PDF of Johnson et al. (2014)")).
+ICES Journal of Marine Science. 72(1): 137-150. 10.1093/icesjms/fsu055 ([PDF] (http://icesjms.oxfordjournals.org/content/early/2014/04/09/icesjms.fsu055.full.pdf?keytype=ref&ijkey=NEXmZIkz3289u3z "PDF of Johnson et al. (2014)")).
